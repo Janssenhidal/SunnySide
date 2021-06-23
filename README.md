@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./fullpage.jpeg)
+![](./SUNNYSIDE-AGENCY-LANDING-PAGE-MAIN/fullpage.jpeg)
 
 ### Links
 
