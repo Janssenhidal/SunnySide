@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://your-solution-url.com
-- Live Site URL: [https://janssenhidal.github.io/SunnySide/]
+- Solution URL: https://www.frontendmentor.io/solutions/html-css-js-sass-grid-VPKkuWfRJ
+- Live Site URL: https://janssenhidal.github.io/SunnySide/
 
 
 ### Built with
