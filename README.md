@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://janssenhidal.github.io/SunnySide/)
+- Solution URL: [https://your-solution-url.com]
+- Live Site URL: [https://janssenhidal.github.io/SunnySide/]
 
 
 ### Built with
